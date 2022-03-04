@@ -1,5 +1,6 @@
 package com.example.github01;
 
 public class Person {
-    public String id;
+    private String id;
+    private String name;
 }
